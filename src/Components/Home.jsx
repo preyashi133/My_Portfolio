@@ -17,7 +17,7 @@ const Home = () => {
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
         <div className="flex flex-col justify-center h-full">
           <p className="text-xl sm:text-7xl font-bold text-white text-center bg-gradient-to-r from-blue-500 via-red-500 via-yellow-500 to-green-500 text-transparent bg-clip-text">
-           <span className="text-5xl"> I'm a </span></p> 
+           <span className="text-5xl bg-gradient-to-r from-pink-500 via-red-500 to-yellow-600 text-transparent bg-clip-text"> I'm a </span></p> 
         {/*  <h3 className="text-3xl sm:text-7xl font-bold text-white"> Software Developer </h3> */}
      <TypeAnimation className=" pt-2 text-xl sm:text-6xl font-bold text-white text-center"
       sequence={[
