@@ -26,7 +26,6 @@ const Experience =()=> {
         title:'CSS',
         style:'shadow-blue-500'
     },
-    ,
     {
         id:3,
         src:javascript,
