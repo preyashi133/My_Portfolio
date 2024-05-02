@@ -33,8 +33,8 @@ const Home = () => {
       repeat={Infinity} />
      <br/>
 
-        <div> <p className="text-gray-500 py-4 text-center ">
-            I have 2+  years of experience building and desgining web applications.
+        <div> <p className="text-gray-400 py-4 text-center ">
+        Transforming ideas into reality through the art of coding, sculpting the digital landscape.
             
           </p> </div> 
 

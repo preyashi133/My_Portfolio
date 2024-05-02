@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div
       name="About"
-      className="w-full h-screen bg-gradient-to-b from-gray-800 to-black text-white"
+      className="w-full h-screen bg-gradient-to-b from-gray-800 to-black text-gray-400"
     >
       <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
         <div className="pb-8">
@@ -13,25 +13,27 @@ const About = () => {
           </p>
         </div>
 
-        <p className="text-xl mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+        <p className="text-xl mt-15">
+        I'm deeply passionate about technology and its transformative potential to address real-world challenges and enhance lives. My journey into programming and software development has been fueled by the exhilarating process 
+        of turning concepts into practical solutions that positively impact individuals and communities. It's this drive 
+        that led me to pursue a career in software development, where I thrive on the satisfaction of crafting innovative
+        solutions from scratch and witnessing them come to life.
         </p>
 
         <br />
 
         <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
-        </p>
+        With over 2 years of experience in web development, I bring a comprehensive understanding of both front-end and 
+        back-end technologies, coupled with a robust foundation in database design and server-side programming. 
+        My expertise spans a range of programming languages, including HTML, CSS, JavaScript, PHP, Java as well as proficiency in frameworks like React, Angular. Additionally, I am adept at working
+        with databases such as MySQL and proficient in version control systems like Git.
+        </p> <br />
+        <p className="text-xl">
+        What sets me apart is not just my technical prowess, but also my insatiable appetite for learning and growth. 
+        I am committed to staying abreast of the latest industry trends and continuously enhancing my skill set. 
+        My strong communication skills, strategic mindset, and ability to adapt to evolving technologies make me a 
+        valuable asset in delivering high-impact solutions.</p>
+       
       </div>
     </div>
   );
