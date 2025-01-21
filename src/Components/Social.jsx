@@ -11,7 +11,7 @@ const Social=()=>{
         <> LinkedIn <FaLinkedin size={30} />
         </>
       ), 
-      href: 'https:linked.com',
+      href: 'https://www.linkedin.com/in/preyashipatel10/',
       style: 'rounded-tr-md'
     },
     {
@@ -20,7 +20,7 @@ const Social=()=>{
         <> Github <FaGithub size={30} />
         </>
       ), 
-      href: 'https:github.com/preyashi133',
+      href: 'https://github.com/preyashi133',
       
     },{
       id:3,
@@ -36,7 +36,7 @@ const Social=()=>{
         <> Resume <BsFillPersonLinesFill size={30} />
         </>
       ), 
-      href: './Resume.pdf',
+      href: './Preyashi_Resume.pdf',
       download: true,
       style: 'rounded-br-md'
     },
