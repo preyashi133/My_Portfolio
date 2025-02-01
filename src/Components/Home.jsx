@@ -40,7 +40,7 @@ const Home = () => {
 
           <div className="flex justify-center">
             <button className="group text-white w-fit px-3 py-2 my-2 flex items-center rounded-md bg-gradient-to-r from-pink-500 via-red-500 to-yellow-600 cursor-pointer">
-            <a href='./Preyashi_Resume.pdf' download="Preyashi_Resume.pdf" className="group text-white w-fit px-3 py-2 flex items-center rounded-md bg-gradient-to-r from-pink-500 via-red-500 to-yellow-600 cursor-pointer">
+            <a href='./Resume.pdf' download="Preyashi_Resume.pdf" className="group text-white w-fit px-3 py-2 flex items-center rounded-md bg-gradient-to-r from-pink-500 via-red-500 to-yellow-600 cursor-pointer">
               Download CV 
             <span className="group-hover:rotate-90 duration-300">
             <MdOutlineKeyboardArrowRight size={25} className="ml-1" />

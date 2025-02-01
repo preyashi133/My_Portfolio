@@ -36,7 +36,7 @@ const Social=()=>{
         <> Resume <BsFillPersonLinesFill size={30} />
         </>
       ), 
-      href: './Preyashi_Resume.pdf',
+      href: './Resume.pdf',
       download: true,
       style: 'rounded-br-md'
     },
