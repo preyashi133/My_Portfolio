@@ -1,7 +1,7 @@
 import React from "react";
 import Image from "../Asset/b2.jpg";
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
-import {TypeAnimation} from 'react-type-animation'
+import {TypeAnimation} from 'react-type-animation';
 
 const Home = () => {
   const backgroundImageStyle = {
@@ -40,11 +40,14 @@ const Home = () => {
 
           <div className="flex justify-center">
             <button className="group text-white w-fit px-3 py-2 my-2 flex items-center rounded-md bg-gradient-to-r from-pink-500 via-red-500 to-yellow-600 cursor-pointer">
-            <a href='./Resume.pdf' download="Preyashi_Resume.pdf" className="group text-white w-fit px-3 py-2 flex items-center rounded-md bg-gradient-to-r from-pink-500 via-red-500 to-yellow-600 cursor-pointer">
-              Download CV 
-            <span className="group-hover:rotate-90 duration-300">
+            {/* <a href='./Resume.pdf' download="Preyashi_Resume.pdf" className="group text-white w-fit px-3 py-2 flex items-center rounded-md bg-gradient-to-r from-pink-500 via-red-500 to-yellow-600 cursor-pointer">
+              Download CV */}
+            <a className="group text-white w-fit px-3 py-2 flex items-center rounded-md bg-gradient-to-r from-pink-500 via-red-500 to-yellow-600 cursor-pointer">
+               Let's walk through the resume
+            {/* <span className="group-hover:rotate-90 duration-300">
             <MdOutlineKeyboardArrowRight size={25} className="ml-1" />
-              </span> </a>
+              </span>  */}
+              </a>
             </button>
           </div>
         </div>

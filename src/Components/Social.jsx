@@ -30,16 +30,17 @@ const Social=()=>{
       ), 
       href: 'mailto:preyashi.133@gamil.com',
       
-    },{
-      id:4,
-      child: (
-        <> Resume <BsFillPersonLinesFill size={30} />
-        </>
-      ), 
-      href: './Resume.pdf',
-      download: true,
-      style: 'rounded-br-md'
     },
+    // {
+    //   id:4,
+    //   child: (
+    //     <> Resume <BsFillPersonLinesFill size={30} />
+    //     </>
+    //   ), 
+    //   href: './Resume.pdf',
+    //   download: true,
+    //   style: 'rounded-br-md'
+    // },
   ];
 
   return (
